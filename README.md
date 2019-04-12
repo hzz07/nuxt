@@ -27,8 +27,8 @@
 `商户页面/修改地址页面`
 
 
-![avatar](./png/详情页.png)
-![avatar](./png/地址切换.png)
+![avatar](./img/详情页.png)
+![avatar](./img/地址切换.png)
 
 
 ## Build Setup
