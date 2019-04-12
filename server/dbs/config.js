@@ -15,11 +15,11 @@ export default {
     },
     //写自己的邮箱
     get user(){
-      return '1032325608@qq.com'
+      return 'xxxxx@qq.com'
     },
     //设置自己邮箱可以使用程序发送邮箱
     get pass(){
-      return 'nntthjmyxlncbeaj'
+      return 'xxxxxxx'
     },
     //生成四位随机验证码
     get code(){
